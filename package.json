@@ -1,0 +1,18 @@
+{
+  "name": "instagra-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "selenium": "^2.20.0",
+    "selenium-query": "^0.52.33",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  },
+  "devDependencies": {"nodemon": "^2.0.6"},
+  "scripts": {
+    "dev": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
